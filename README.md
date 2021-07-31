@@ -1,9 +1,9 @@
 <img src="https://img.shields.io/badge/Tistory-FF8800?style=flat-square&logo=Micro.blog&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/cec7378@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HaminSong-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 
-👋 &nbsp;Hi there! I'm a **iOS developer** 🚀 <br>
+👋 &nbsp;Hi there! I'm a **iOS developer** with enthusiasm and curiousity🚀 <br>
 It hasn't been long since I jumped in iOS development, but I can build every apps whatever I want. 👌 <br>
 
-I enjoy tabletennis, snowboarding and travling 🏂 🏓 <br>
+I'm the specialist in snowboarding and tabletennis. 🏂 🏓 <br>
 Creating informative applications is my development philosophy and driving force. 🌟 <br>
 
 
