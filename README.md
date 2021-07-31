@@ -4,7 +4,7 @@
 It hasn't been long since I jumped in iOS development, but I can build every apps whatever I want. 👌 <br>
 
 I enjoy tabletennis, snowboarding and travling 🏂 🏓 <br>
-I hope to develop every interesting and useful app in someone's life 🌟 <br>
+Creating informative applications is the driving force behind my development. 🌟 <br>
 
 ### 💪 Skills
 
