@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/Tistory-FF8800?style=flat-square&logo=Micro.blog&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/cec7378@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HaminSong-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 
-<!--
-**naldal/naldal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 &nbsp;Hi there! I'm a **mobile app develper** using iOS. 🚀 <br>
+It hasn't been long since I jumped in iOS development, I have comfidence to build every app whatever I want. 👌 <br>
 
-Here are some ideas to get you started:
+I enjoy tabletennis, snowboarding and travling 🏂 🏓 <br>
+I hope to develop every interesting and useful in someone's life 🌟 <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💪 Skills
+
+#### Platforms and Languages
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+### Tools
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/> <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
