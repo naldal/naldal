@@ -4,7 +4,7 @@
 It hasn't been long since I jumped in iOS development, but I can build every apps whatever I want. 👌 <br>
 
 I'm a specialist in snowboarding and tabletennis is my favorite. 🏂 🏓 <br>
-Creating informative applications is my development philosophy and driving force. 🌟 <br>
+_Creating informative applications_ is my development philosophy and driving force. 🌟 <br>
 
 
 ### 💪 Skills
